@@ -31,7 +31,7 @@ I am a junior front-end developer from Ukraine. <img src="https://media.giphy.co
 - 🌱 I love Developing SPA and adaptive websites.
 - ⚡ In my free time I try to improve my skills as a developer.
 - 😄 I would like to take a refresher course shortly: «TypeScript: Type Theory» and «Design UX/UI for front-end developers».
-- 📫 How to reach me:  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=blue"/> mirror45@gmail.com
+- 📫 How to reach me:  <img align="center" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=blue"/> mirror45@gmail.com
 
 ---
 

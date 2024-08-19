@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a junior front-end developer from Ukraine <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I'm learning React library and TypeScript in more depth.
+- 🌱 I love Developing SPA and adaptive websites.
+- ⚡ In my free time I try to improve my skills as a developer.
+- 😄 I would like to take a refresher course shortly: «TypeScript: Type Theory» and «Design UX/UI for front-end developers».
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 
 ---

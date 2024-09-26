@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://t.me/Mirror45"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
+<a href="https://t.me/Mirror145"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
 <a href="https://www.linkedin.com/in/Mirror45"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
@@ -31,7 +31,7 @@ I am a junior front-end developer from Ukraine. <img src="https://media.giphy.co
 - 🌱 I love Developing SPA and adaptive websites.
 - ⚡ In my free time I try to improve my skills as a developer.
 - 😄 I would like to take a refresher course shortly: «TypeScript: Type Theory» and «Design UX/UI for front-end developers».
-- 📫 How to reach me:  <img align="center" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=blue"/> mirror45@gmail.com
+- 📫 How to reach me:  <img align="center" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=blue"/> dmitrymirror96@gmail.com
 
 ---
 

@@ -1,63 +1,78 @@
-<!--
-**Mirror45/Mirror45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет! Я Mirror 👋</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://t.me/Mirror145"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"></a>
-<a href="https://www.linkedin.com/in/Mirror45"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
-<h1 align="center">Hey there, I'm Dmitriy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk2MHlmYjYzbzZ5ZDk1c2lqMm4xaW9tZnBzeGhsMjh4amQ3YXYxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a junior front-end developer from Ukraine. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 🔭 I'm learning React library and TypeScript in more depth.
-- 🌱 I love Developing SPA and adaptive websites.
-- ⚡ In my free time I try to improve my skills as a developer.
-- 😄 I would like to take a refresher course shortly: «TypeScript: Type Theory» and «Design UX/UI for front-end developers».
-- 📫 How to reach me:  <img align="center" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=blue"/> dmitrymirror96@gmail.com
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" title="Reactrouter" **alt="Reactrouter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storybook" **alt="Storybook" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" **alt="Npm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" **alt="Gulp" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>&nbsp;
+  💻 Frontend Developer (React / Next.js / TypeScript)  
+  <br />
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mirror45&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🛠️ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirror45&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,redux,js,html,css,sass,git,figma,webpack,vercel,netlify,chartjs" />
+</p>
+
+- ⚛️ **React** (SPA), **Next.js 15** (App Router, SSR)  
+- 🎯 **TypeScript** с включённым строгим режимом и типизацией  
+- 🗂️ **Redux Toolkit** — управление состоянием с использованием слайсов и санок  
+- 🌐 **REST API** с **Axios** для запросов, включая авторизацию и синхронизацию  
+- 🎨 **HTML5**, **Sass (SCSS)**, **CSS Modules**, **адаптивная верстка**, pixel-perfect подход  
+- 🖌️ Работа с **Figma** — экспорт и компонентный подход к UI  
+- 🧰 **Git** — опыт работы с ветками, коммитами и pull request  
+- 🔧 Инструменты контроля качества: **ESLint**, **Prettier**, **Husky**, **Commitlint**  
+- 🛠️ Сборка и бандлинг с помощью **Webpack** (в проектах без Next.js)  
+- 🧪 В процессе изучения и внедрения: **Jest**, **React Testing Library**, **CI/CD** (GitHub Actions, автодеплой на Vercel и Netlify)  
+- 📊 Использование библиотек для UI и данных: **Flatpickr** (даты), **Chart.js/react-chartjs-2** (статистика), **Leaflet** (карты)
+
+
+---
+
+### 📌 Лучшие проекты
+
+| 💡 Проект | 📄 Описание | 🛠️ Стек | 🔗 Ссылки |
+|----------|-------------|--------|-----------|
+| 🎬 **Онлайн-кинотеатр** | Реальный pet-проект: авторизация по токену, SSR, фильтрация по жанру, логика "Show more", защита маршрутов | Next.js, Redux Toolkit, TypeScript, Axios | [GitHub](https://github.com/Mirror45/...) |
+| 📂 **Task Manager** | SPA-приложение для управления задачами: фильтрация по статусу, сортировка, типизация, хранение в Redux | React, Redux Toolkit, TypeScript | [GitHub](https://github.com/Mirror45/taskmanager) |
+| 🛒 **Spares Shop** | Адаптивная вёрстка интернет-магазина автозапчастей. Семантика, модульная структура, сборка на Gulp | HTML, Sass, JavaScript (ES6+), Gulp | [GitHub](https://github.com/Mirror45/spares-shop) |
+
+> 📂 *Больше — в разделе [репозиториев](https://github.com/Mirror45?tab=repositories)*
+
+---
+
+### 👨‍💻 Обо мне
+
+- 🧠 2 года практики в самостоятельной разработке: реализовал более 10 личных проектов — от SPA на React/Redux и TypeScript до адаптивных сайтов на HTML, Sass и JavaScript  
+- 🚀 Опыт создания полноценных приложений с архитектурой, строгой типизацией, REST API, аутентификацией, интеграцией карт и интерактивными компонентами  
+- 🧩 Применяю современные практики: модульность, чистый код, строгая типизация в TypeScript, ESLint, Prettier, Husky и Commitlint для поддержания качества кода и стандартизации коммитов  
+- 🌱 Сейчас развиваю навыки тестирования (Jest, React Testing Library) и CI/CD (GitHub Actions, Vercel, Netlify)  
+- 🔧 Уверенно работаю с Git и системой контроля версий  
+- 💬 Языки: English (B1) / Українська / Русский
+
+---
+
+### 🎯 План развития
+
+- ✅ Прокачать навыки написания тестов (**Jest**, **RTL**)
+- ⚙️ Освоить автоматизацию через **CI/CD** (GitHub Actions, Vercel, Netlify)
+- 🧪 Научиться писать unit и integration тесты
+- 🔬 Добавить тестирование в проектах **Watch-to-Watch** и **TaskManager**
+- 🌍 Прокачать английский до уровня B2
+
+---
+
+### 📫 Контакты
+
+- 📧 Email: `dmitrymirror96@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/mirror45](https://linkedin.com/in/mirror45)
+- ✈️ Telegram: https://t.me/Mirror145
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirror45&layout=compact&theme=github_dark" height="150"/>
+</p>
+
+

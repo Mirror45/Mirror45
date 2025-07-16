@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Mirror 👋</h1>
+<h1 align="center">Привет! Я Mirror45 👋</h1>
 
 <p align="center">
   💻 Frontend Developer (React / Next.js / TypeScript)  
@@ -33,8 +33,16 @@
 | 💡 Проект | 📄 Описание | 🛠️ Стек | 🔗 Ссылки |
 |----------|-------------|--------|-----------|
 | 🎬 **Онлайн-кинотеатр** | Реальный pet-проект: авторизация по токену, SSR, фильтрация по жанру, логика "Show more", защита маршрутов | Next.js, Redux Toolkit, TypeScript, Axios | [GitHub](https://github.com/Mirror45/...) |
-| 📂 **Task Manager** | SPA-приложение для управления задачами: фильтрация по статусу, сортировка, типизация, хранение в Redux | React, Redux Toolkit, TypeScript | [GitHub](https://github.com/Mirror45/taskmanager) |
-| 🛒 **Spares Shop** | Адаптивная вёрстка интернет-магазина автозапчастей. Семантика, модульная структура, сборка на Gulp | HTML, Sass, JavaScript (ES6+), Gulp | [GitHub](https://github.com/Mirror45/spares-shop) |
+| ✅ **Task Manager** | Полноценный SPA для управления задачами: создание, редактирование, архив, фильтры, сортировка, статистика с графиками, REST API, строгая типизация, pre-commit хуки и линтинг | React, Redux Toolkit, TypeScript, Axios, Chart.js, Flatpickr | [GitHub](https://github.com/Mirror45/taskmanager) |
+| 🏙️ **Six Cities** | Приложение по аренде жилья в 6 городах Европы: авторизация, избранное, фильтрация, сортировка, интерактивные карты, рейтинги, отзывы. Полностью на TypeScript | React, Redux Toolkit, TypeScript, Axios, Leaflet, React Router | [GitHub](https://github.com/Mirror45/six-cities) |
+| ✈️ **Big Trip** | Планировщик путешествий: добавление точек маршрута, сортировка и фильтрация, интерактивные формы, статистика, offline-режим и синхронизация. Написан на чистом JS (MVP) | JavaScript (ES6), MVP, REST API, Webpack, Chart.js, flatpickr | [GitHub](https://github.com/Mirror45/big-trip) |
+| 🗺️ **Keksobooking** | Одностраничное приложение для размещения и поиска жилья в Токио: карта, фильтры, валидация форм, загрузка фото, drag&drop пин, отправка на сервер. Всё на ванильном JS | JavaScript (ES6), Webpack, Leaflet, ESLint, Prettier | [GitHub](https://github.com/Mirror45/keksobooking) |
+| 🚘 **Spares-shop** | Многостраничный адаптивный сайт интернет-магазина автозапчастей: фильтрация, карусели, аккордеоны, прогрессивное улучшение, модульный SCSS и JS, сборка через Gulp | HTML, Sass (SCSS), JavaScript (ES6), Gulp 4, Swiper.js | [GitHub](https://github.com/Mirror45/spares-shop) |
+| 🧸 **Mishka** | Резиновая адаптивная вёрстка интернет-магазина игрушек: каталог, форма заказа, отзыв, модалки, retina-графика, БЭМ, прогрессивное улучшение, чистый CSS/HTML без JS | HTML, Sass (SCSS), Gulp 4, BEM | [GitHub](https://github.com/Mirror45/mishka-adaptive) |
+| 🐾 **Cats Café** | SPA на React для котокафе: просмотр кошек, галерея слайдером, покупка билетов. Использован React Router, Styled Components и Swiper. Оптимизирован для десктопа | React, React Router DOM v6, Styled Components, Swiper.js, CRA + Rewired | [GitHub](https://github.com/yourusername/cats-cafe) |
+| 🥕 **Farm Products** | SPA для фермерского магазина: каталог, фильтры, оформление заказа с адресом доставки. React + React Router + Styled Components. Оптимизирован для десктопа | React, React Router DOM v6, Styled Components, CRA | [GitHub](https://github.com/Mirror45/farm-products) |
+| 🛒 **Card Product** | SPA интернет-магазина с каталогом, страницей товара с галереей (Swiper), аккордеоном отзывов и модальным чекаутом. React Router, Styled Components, кастомный CRA конфиг. Оптимизирован для десктопа | React, React Router DOM v6, Styled Components, Swiper.js, CRA + Rewired | [GitHub](https://github.com/Mirror45/card-product) |
+
 
 > 📂 *Больше — в разделе [репозиториев](https://github.com/Mirror45?tab=repositories)*
 
@@ -67,12 +75,5 @@
 - 💼 LinkedIn: [linkedin.com/in/mirror45](https://linkedin.com/in/mirror45)
 - ✈️ Telegram: https://t.me/Mirror145
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirror45&layout=compact&theme=github_dark" height="150"/>
-</p>
 
 

@@ -1,5 +1,3 @@
-<h1 align="center">Дмитрий Перепечаев (Mirror45)</h1>
-
 <p align="center">
   💻 Frontend Developer (React / Next.js / TypeScript)  
   <br />

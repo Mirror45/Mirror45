@@ -36,7 +36,7 @@
 
 | 💡 Проект | 📄 Описание | 🛠️ Стек | 🔗 Ссылки |
 |----------|-------------|--------|-----------|
-| 🎬 **What to Watch** | Реальный pet-проект: авторизация по токену, SSR, фильтрация по жанру, логика "Show more", защита маршрутов | Next.js, Redux Toolkit, TypeScript, Axios | [GitHub](https://github.com/Mirror45/what-to-watch) |
+| 🎬 **What to Watch** | SPA-кинокаталог на Next.js с серверным рендерингом (SSR). Реализована полная аутентификация, защищенные роуты и управление состоянием через Redux Toolkit. | Next.js, React, Redux Toolkit, TypeScript, Axios | [GitHub](https://github.com/Mirror45/what-to-watch) |
 | ✅ **Task Manager** | Интерактивный таск-менеджер с продвинутым управлением состояния в Redux Toolkit для реализации фильтров и сортировки. Включает визуализацию статистики и профессионально настроенную среду разработки. | React, Redux Toolkit, TypeScript, Axios, CSS Modules, Chart.js, Flatpickr | [GitHub](https://github.com/Mirror45/taskmanager) |
 | 🏙️ **Six Cities** | Полнофункциональное SPA для аренды жилья. Ключевая особенность — сложная синхронизация состояния между UI и интерактивной картой (Leaflet). Включает авторизацию, приватные маршруты и динамическую сортировку. | React, Redux Toolkit, TypeScript, Axios, Vite, Leaflet, React Router | [GitHub](https://github.com/Mirror45/six-cities) |
 | 🗺️ **Keksobooking** | Проект на ванильном JS, демонстрирующий интеграцию интерактивных карт (Leaflet), сложную логику форм с динамической валидацией и оптимизацию производительности фильтров с помощью debounce. | JavaScript (ES6), Webpack, Leaflet, ESLint, Prettier | [GitHub](https://github.com/Mirror45/keksobooking) |
